@@ -1,0 +1,27 @@
+{
+  "name": "liri-node-ap",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dasthana24/liri-node-ap.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dasthana24/liri-node-ap/issues"
+  },
+  "homepage": "https://github.com/dasthana24/liri-node-ap#readme",
+  "dependencies": {
+    "i": "^0.3.6",
+    "node-spotify-api": "^1.0.7",
+    "omdbapi": "^2.0.1",
+    "spotify": "^0.3.0",
+    "twitter": "^1.7.1"
+  }
+}
